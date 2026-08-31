@@ -1,3 +1,5 @@
+
+
 # OpenClaw Mem0 Plugin
 
 [中文文档](README_zh.md)
@@ -41,7 +43,7 @@ Use the managed Mem0 Cloud service.
         "mode": "platform",
         "apiKey": "your-mem0-api-key",
         "userId": "openclaw-user",
-        "host": "mem0-platform-host"
+        "host": "https://api.mem0.ai"
     }
 }
 ```
